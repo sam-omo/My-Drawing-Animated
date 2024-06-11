@@ -1,0 +1,15 @@
+html {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 5px solid black;
+}
+
+#tree-img {
+  display: none;
+}
+
+#flyguy-img {
+  display: none;
+}
